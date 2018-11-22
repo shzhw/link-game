@@ -1,5 +1,5 @@
 ﻿var img_src = "b1.jpg";
-var img_bg = 'a2.png';
+var img_bg = '';
 
 //struct
 function Point() {
